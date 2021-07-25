@@ -31,7 +31,9 @@
             "ionization_energies": [
                 1312
             ],
-            "cpk-hex": "ffffff"
+            "cpk-hex": "ffffff",
+            "name-persian": "\u0638\u2021\u063a\u0152\u0637\u00af\u0637\u00b1\u0638\u02c6\u0639\u06a9\u0638\u2020",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Helium",
@@ -65,7 +67,9 @@
                 2372.3,
                 5250.5
             ],
-            "cpk-hex": "d9ffff"
+            "cpk-hex": "d9ffff",
+            "name-persian": "\u0638\u2021\u0638\u201e\u063a\u0152\u0638\u02c6\u0638\u2026",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Lithium",
@@ -84,7 +88,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Lithium",
             "spectral_img": null,
-            "summary": "Lithium (from Greek:λίθος lithos, \"stone\") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.",
+            "summary": "Lithium (from Greek:\u062e\u00bb\u062e\u00af\u062e\u00b8\u062e\u061f\u062f\u201a lithos, \"stone\") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.",
             "symbol": "Li",
             "xpos": 1,
             "ypos": 2,
@@ -101,7 +105,9 @@
                 7298.1,
                 11815
             ],
-            "cpk-hex": "cc80ff"
+            "cpk-hex": "cc80ff",
+            "name-persian": "\u0638\u201e\u063a\u0152\u0637\u06be\u063a\u0152\u0638\u02c6\u0638\u2026",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Beryllium",
@@ -138,7 +144,9 @@
                 14848.7,
                 21006.6
             ],
-            "cpk-hex": "c2ff00"
+            "cpk-hex": "c2ff00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Boron",
@@ -176,7 +184,9 @@
                 25025.8,
                 32826.7
             ],
-            "cpk-hex": "ffb5b5"
+            "cpk-hex": "ffb5b5",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Carbon",
@@ -195,7 +205,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Carbon",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg",
-            "summary": "Carbon (from Latin:carbo \"coal\") is a chemical element with symbol C and atomic number 6. On the periodic table, it is the first (row 2) of six elements in column (group) 14, which have in common the composition of their outer electron shell. It is nonmetallic and tetravalent—making four electrons available to form covalent chemical bonds.",
+            "summary": "Carbon (from Latin:carbo \"coal\") is a chemical element with symbol C and atomic number 6. On the periodic table, it is the first (row 2) of six elements in column (group) 14, which have in common the composition of their outer electron shell. It is nonmetallic and tetravalent\u00e2\u20ac\u201dmaking four electrons available to form covalent chemical bonds.",
             "symbol": "C",
             "xpos": 14,
             "ypos": 2,
@@ -215,7 +225,9 @@
                 37831,
                 47277
             ],
-            "cpk-hex": "909090"
+            "cpk-hex": "909090",
+            "name-persian": "\u0639\u00a9\u0637\u00b1\u0637\u00a8\u0638\u2020",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Nitrogen",
@@ -255,7 +267,9 @@
                 53266.6,
                 64360
             ],
-            "cpk-hex": "3050f8"
+            "cpk-hex": "3050f8",
+            "name-persian": "\u0638\u2020\u063a\u0152\u0637\u06be\u0637\u00b1\u0638\u02c6\u0639\u06a9\u0638\u2020",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Oxygen",
@@ -296,7 +310,9 @@
                 71330,
                 84078
             ],
-            "cpk-hex": "ff0d0d"
+            "cpk-hex": "ff0d0d",
+            "name-persian": "\u0637\u00a7\u0639\u00a9\u0637\u00b3\u063a\u0152\u0639\u06a9\u0638\u2020",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Fluorine",
@@ -306,7 +322,7 @@
             "category": "diatomic nonmetal",
             "color": null,
             "density": 1.696,
-            "discovered_by": "André-Marie Ampère",
+            "discovered_by": "Andr\u0623\u00a9-Marie Amp\u0623\u00a8re",
             "melt": 53.48,
             "molar_heat": null,
             "named_by": "Humphry Davy",
@@ -338,7 +354,9 @@
                 92038.1,
                 106434.3
             ],
-            "cpk-hex": "90e050"
+            "cpk-hex": "90e050",
+            "name-persian": "\u0638\u067e\u0638\u201e\u0638\u02c6\u0637\u00a6\u0638\u02c6\u0637\u00b1",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Neon",
@@ -381,7 +399,9 @@
                 115379.5,
                 131432
             ],
-            "cpk-hex": "b3e3f5"
+            "cpk-hex": "b3e3f5",
+            "name-persian": "\u0638\u2020\u0637\u00a6\u0638\u02c6\u0638\u2020",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Sodium",
@@ -400,7 +420,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Sodium",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Sodium_Spectra.jpg",
-            "summary": "Sodium /ˈsoʊdiəm/ is a chemical element with symbol Na (from Ancient Greek Νάτριο) and atomic number 11. It is a soft, silver-white, highly reactive metal. In the Periodic table it is in column 1 (alkali metals), and shares with the other six elements in that column that it has a single electron in its outer shell, which it readily donates, creating a positively charged atom - a cation.",
+            "summary": "Sodium /\u062b\u02c6so\u062a\u0679di\u0629\u2122m/ is a chemical element with symbol Na (from Ancient Greek \u062e\u200c\u062e\u00ac\u062f\u201e\u062f\u067e\u062e\u00b9\u062e\u061f) and atomic number 11. It is a soft, silver-white, highly reactive metal. In the Periodic table it is in column 1 (alkali metals), and shares with the other six elements in that column that it has a single electron in its outer shell, which it readily donates, creating a positively charged atom - a cation.",
             "symbol": "Na",
             "xpos": 1,
             "ypos": 3,
@@ -426,7 +446,9 @@
                 141362,
                 159076
             ],
-            "cpk-hex": "ab5cf2"
+            "cpk-hex": "ab5cf2",
+            "name-persian": "\u0637\u00b3\u0637\u00af\u063a\u0152\u0638\u2026",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Magnesium",
@@ -472,7 +494,9 @@
                 169988,
                 189368
             ],
-            "cpk-hex": "8aff00"
+            "cpk-hex": "8aff00",
+            "name-persian": "\u0638\u2026\u0638\u2020\u063a\u0152\u0637\u00b2\u063a\u0152\u0638\u2026",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Aluminium",
@@ -519,7 +543,9 @@
                 201266,
                 222316
             ],
-            "cpk-hex": "bfa6a6"
+            "cpk-hex": "bfa6a6",
+            "name-persian": "\u0637\u00a2\u0638\u201e\u0638\u02c6\u0638\u2026\u063a\u0152\u0638\u2020\u063a\u0152\u0638\u02c6\u0638\u2026",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Silicon",
@@ -529,7 +555,7 @@
             "category": "metalloid",
             "color": null,
             "density": 2.329,
-            "discovered_by": "Jöns Jacob Berzelius",
+            "discovered_by": "J\u0623\u00b6ns Jacob Berzelius",
             "melt": 1687,
             "molar_heat": 19.789,
             "named_by": "Thomas Thomson (chemist)",
@@ -567,7 +593,9 @@
                 235196,
                 257923
             ],
-            "cpk-hex": "f0c8a0"
+            "cpk-hex": "f0c8a0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Phosphorus",
@@ -586,7 +614,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Phosphorus",
             "spectral_img": null,
-            "summary": "Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms—white phosphorus and red phosphorus—but due to its high reactivity, phosphorus is never found as a free element on Earth. Instead phosphorus-containing minerals are almost always present in their maximally oxidised state, as inorganic phosphate rocks.",
+            "summary": "Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms\u00e2\u20ac\u201dwhite phosphorus and red phosphorus\u00e2\u20ac\u201dbut due to its high reactivity, phosphorus is never found as a free element on Earth. Instead phosphorus-containing minerals are almost always present in their maximally oxidised state, as inorganic phosphate rocks.",
             "symbol": "P",
             "xpos": 15,
             "ypos": 3,
@@ -616,7 +644,9 @@
                 271791,
                 296195
             ],
-            "cpk-hex": "ff8000"
+            "cpk-hex": "ff8000",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Sulfur",
@@ -666,7 +696,9 @@
                 311048,
                 337138
             ],
-            "cpk-hex": "ffff30"
+            "cpk-hex": "ffff30",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Chlorine",
@@ -717,7 +749,9 @@
                 352994,
                 380760
             ],
-            "cpk-hex": "1ff01f"
+            "cpk-hex": "1ff01f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Argon",
@@ -769,7 +803,9 @@
                 397605,
                 427066
             ],
-            "cpk-hex": "80d1e3"
+            "cpk-hex": "80d1e3",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Potassium",
@@ -823,7 +859,9 @@
                 444880,
                 476063
             ],
-            "cpk-hex": "8f40d4"
+            "cpk-hex": "8f40d4",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Calcium",
@@ -878,7 +916,9 @@
                 494850,
                 527762
             ],
-            "cpk-hex": "3dff00"
+            "cpk-hex": "3dff00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Scandium",
@@ -934,7 +974,9 @@
                 547530,
                 582163
             ],
-            "cpk-hex": "e6e6e6"
+            "cpk-hex": "e6e6e6",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Titanium",
@@ -991,7 +1033,9 @@
                 602930,
                 639294
             ],
-            "cpk-hex": "bfc2c7"
+            "cpk-hex": "bfc2c7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Vanadium",
@@ -1001,7 +1045,7 @@
             "category": "transition metal",
             "color": null,
             "density": 6,
-            "discovered_by": "Andrés Manuel del Río",
+            "discovered_by": "Andr\u0623\u00a9s Manuel del R\u0623\u00ado",
             "melt": 2183,
             "molar_heat": 24.89,
             "named_by": "Isotopes of vanadium",
@@ -1049,7 +1093,9 @@
                 661050,
                 699144
             ],
-            "cpk-hex": "a6a6ab"
+            "cpk-hex": "a6a6ab",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Chromium",
@@ -1108,7 +1154,9 @@
                 721870,
                 761733
             ],
-            "cpk-hex": "8a99c7"
+            "cpk-hex": "8a99c7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Manganese",
@@ -1168,7 +1216,9 @@
                 785450,
                 827067
             ],
-            "cpk-hex": "9c7ac7"
+            "cpk-hex": "9c7ac7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Iron",
@@ -1229,7 +1279,9 @@
                 851800,
                 895161
             ],
-            "cpk-hex": "e06633"
+            "cpk-hex": "e06633",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Cobalt",
@@ -1291,7 +1343,9 @@
                 920870,
                 966023
             ],
-            "cpk-hex": "f090a0"
+            "cpk-hex": "f090a0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Nickel",
@@ -1354,7 +1408,9 @@
                 992718,
                 1039668
             ],
-            "cpk-hex": "50d050"
+            "cpk-hex": "50d050",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Copper",
@@ -1418,7 +1474,9 @@
                 1067358,
                 1116105
             ],
-            "cpk-hex": "c88033"
+            "cpk-hex": "c88033",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Zinc",
@@ -1474,7 +1532,9 @@
                 71200,
                 179100
             ],
-            "cpk-hex": "7d80b0"
+            "cpk-hex": "7d80b0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Gallium",
@@ -1493,7 +1553,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Gallium",
             "spectral_img": null,
-            "summary": "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76 °C (85.57 °F) (slightly above room temperature).",
+            "summary": "Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76 \u0622\u00b0C (85.57 \u0622\u00b0F) (slightly above room temperature).",
             "symbol": "Ga",
             "xpos": 13,
             "ypos": 4,
@@ -1513,7 +1573,9 @@
                 2963,
                 6180
             ],
-            "cpk-hex": "c28f8f"
+            "cpk-hex": "c28f8f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Germanium",
@@ -1553,7 +1615,9 @@
                 4411,
                 9020
             ],
-            "cpk-hex": "668f8f"
+            "cpk-hex": "668f8f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Arsenic",
@@ -1594,7 +1658,9 @@
                 6043,
                 12310
             ],
-            "cpk-hex": "bd80e3"
+            "cpk-hex": "bd80e3",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Selenium",
@@ -1604,7 +1670,7 @@
             "category": "polyatomic nonmetal",
             "color": null,
             "density": 4.81,
-            "discovered_by": "Jöns Jakob Berzelius",
+            "discovered_by": "J\u0623\u00b6ns Jakob Berzelius",
             "melt": 494,
             "molar_heat": 25.363,
             "named_by": null,
@@ -1636,7 +1702,9 @@
                 7880,
                 14990
             ],
-            "cpk-hex": "ffa100"
+            "cpk-hex": "ffa100",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Bromine",
@@ -1646,7 +1714,7 @@
             "category": "diatomic nonmetal",
             "color": null,
             "density": 3.1028,
-            "discovered_by": "Antoine Jérôme Balard",
+            "discovered_by": "Antoine J\u0623\u00a9r\u0623\u00b4me Balard",
             "melt": 265.8,
             "molar_heat": null,
             "named_by": null,
@@ -1655,7 +1723,7 @@
             "phase": "Liquid",
             "source": "https://en.wikipedia.org/wiki/Bromine",
             "spectral_img": null,
-            "summary": "Bromine (from Ancient Greek:βρῶμος, brómos, meaning \"stench\") is a chemical element with symbol Br, and atomic number 35. It is a halogen. The element was isolated independently by two chemists, Carl Jacob Löwig and Antoine Jerome Balard, in 1825–1826.",
+            "summary": "Bromine (from Ancient Greek:\u062e\u00b2\u062f\u067e\u0644\u061f\u00b6\u062e\u00bc\u062e\u061f\u062f\u201a, br\u0623\u00b3mos, meaning \"stench\") is a chemical element with symbol Br, and atomic number 35. It is a halogen. The element was isolated independently by two chemists, Carl Jacob L\u0623\u00b6wig and Antoine Jerome Balard, in 1825\u00e2\u20ac\u201c1826.",
             "symbol": "Br",
             "xpos": 17,
             "ypos": 4,
@@ -1679,7 +1747,9 @@
                 9940,
                 18600
             ],
-            "cpk-hex": "a62929"
+            "cpk-hex": "a62929",
+            "name-persian": "",
+            "phase-persian": "\u0645\u0627\u06cc\u0639"
         },
         {
             "name": "Krypton",
@@ -1698,7 +1768,7 @@
             "phase": "Gas",
             "source": "https://en.wikipedia.org/wiki/Krypton",
             "spectral_img": "https://en.wikipedia.org/wiki/File:Krypton_Spectrum.jpg",
-            "summary": "Krypton (from Greek:κρυπτός kryptos \"the hidden one\") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere, is isolated by fractionally distilling liquefied air, and is often used with other rare gases in fluorescent lamps.",
+            "summary": "Krypton (from Greek:\u062e\u061b\u062f\u067e\u062f\u2026\u062f\u20ac\u062f\u201e\u062f\u0152\u062f\u201a kryptos \"the hidden one\") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere, is isolated by fractionally distilling liquefied air, and is often used with other rare gases in fluorescent lamps.",
             "symbol": "Kr",
             "xpos": 18,
             "ypos": 4,
@@ -1744,7 +1814,9 @@
                 311400,
                 326200
             ],
-            "cpk-hex": "5cb8d1"
+            "cpk-hex": "5cb8d1",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Rubidium",
@@ -1790,7 +1862,9 @@
                 14500,
                 26740
             ],
-            "cpk-hex": "702eb0"
+            "cpk-hex": "702eb0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Strontium",
@@ -1837,7 +1911,9 @@
                 17100,
                 31270
             ],
-            "cpk-hex": "00ff00"
+            "cpk-hex": "00ff00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Yttrium",
@@ -1885,7 +1961,9 @@
                 19900,
                 36090
             ],
-            "cpk-hex": "94ffff"
+            "cpk-hex": "94ffff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Zirconium",
@@ -1904,7 +1982,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Zirconium",
             "spectral_img": null,
-            "summary": "Zirconium is a chemical element with symbol Zr and atomic number 40. The name of zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the Persian word zargun زرگون, meaning \"gold-colored\".",
+            "summary": "Zirconium is a chemical element with symbol Zr and atomic number 40. The name of zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the Persian word zargun \u0637\u00b2\u0637\u00b1\u0639\u00af\u0638\u02c6\u0638\u2020, meaning \"gold-colored\".",
             "symbol": "Zr",
             "xpos": 4,
             "ypos": 5,
@@ -1927,7 +2005,9 @@
                 7752,
                 9500
             ],
-            "cpk-hex": "94e0e0"
+            "cpk-hex": "94e0e0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Niobium",
@@ -1970,7 +2050,9 @@
                 9847,
                 12100
             ],
-            "cpk-hex": "73c2c9"
+            "cpk-hex": "73c2c9",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Molybdenum",
@@ -1989,7 +2071,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Molybdenum",
             "spectral_img": null,
-            "summary": "Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin molybdaenum, from Ancient Greek Μόλυβδος molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele.",
+            "summary": "Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin molybdaenum, from Ancient Greek \u062e\u0153\u062f\u0152\u062e\u00bb\u062f\u2026\u062e\u00b2\u062e\u00b4\u062e\u061f\u062f\u201a molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele.",
             "symbol": "Mo",
             "xpos": 6,
             "ypos": 5,
@@ -2036,7 +2118,9 @@
                 148100,
                 154500
             ],
-            "cpk-hex": "54b5b5"
+            "cpk-hex": "54b5b5",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Technetium",
@@ -2046,7 +2130,7 @@
             "category": "transition metal",
             "color": null,
             "density": 11,
-            "discovered_by": "Emilio Segrè",
+            "discovered_by": "Emilio Segr\u0623\u00a8",
             "melt": 2430,
             "molar_heat": 24.27,
             "named_by": null,
@@ -2055,7 +2139,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Technetium",
             "spectral_img": null,
-            "summary": "Technetium (/tɛkˈniːʃiəm/) is a chemical element with symbol Tc and atomic number 43. It is the element with the lowest atomic number in the periodic table that has no stable isotopes:every form of it is radioactive. Nearly all technetium is produced synthetically, and only minute amounts are found in nature.",
+            "summary": "Technetium (/t\u0629\u203ak\u062b\u02c6ni\u062b\u06af\u062a\u0192i\u0629\u2122m/) is a chemical element with symbol Tc and atomic number 43. It is the element with the lowest atomic number in the periodic table that has no stable isotopes:every form of it is radioactive. Nearly all technetium is produced synthetically, and only minute amounts are found in nature.",
             "symbol": "Tc",
             "xpos": 7,
             "ypos": 5,
@@ -2075,7 +2159,9 @@
                 1470,
                 2850
             ],
-            "cpk-hex": "3b9e9e"
+            "cpk-hex": "3b9e9e",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Ruthenium",
@@ -2114,7 +2200,9 @@
                 1620,
                 2747
             ],
-            "cpk-hex": "248f8f"
+            "cpk-hex": "248f8f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Rhodium",
@@ -2153,7 +2241,9 @@
                 1740,
                 2997
             ],
-            "cpk-hex": "0a7d8c"
+            "cpk-hex": "0a7d8c",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Palladium",
@@ -2191,7 +2281,9 @@
                 1870,
                 3177
             ],
-            "cpk-hex": "006985"
+            "cpk-hex": "006985",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Silver",
@@ -2210,7 +2302,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Silver",
             "spectral_img": null,
-            "summary": "Silver is a chemical element with symbol Ag (Greek:άργυρος árguros, Latin:argentum, both from the Indo-European root *h₂erǵ- for \"grey\" or \"shining\") and atomic number 47. A soft, white, lustrous transition metal, it possesses the highest electrical conductivity, thermal conductivity and reflectivity of any metal. The metal occurs naturally in its pure, free form (native silver), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite.",
+            "summary": "Silver is a chemical element with symbol Ag (Greek:\u062e\u00ac\u062f\u067e\u062e\u00b3\u062f\u2026\u062f\u067e\u062e\u061f\u062f\u201a \u0623\u060crguros, Latin:argentum, both from the Indo-European root *h\u00e2\u201a\u201aer\u0627\u00b5- for \"grey\" or \"shining\") and atomic number 47. A soft, white, lustrous transition metal, it possesses the highest electrical conductivity, thermal conductivity and reflectivity of any metal. The metal occurs naturally in its pure, free form (native silver), as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite.",
             "symbol": "Ag",
             "xpos": 11,
             "ypos": 5,
@@ -2230,7 +2322,9 @@
                 2070,
                 3361
             ],
-            "cpk-hex": "c0c0c0"
+            "cpk-hex": "c0c0c0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Cadmium",
@@ -2269,7 +2363,9 @@
                 1631.4,
                 3616
             ],
-            "cpk-hex": "ffd98f"
+            "cpk-hex": "ffd98f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Indium",
@@ -2309,11 +2405,13 @@
                 2704,
                 5210
             ],
-            "cpk-hex": "a67573"
+            "cpk-hex": "a67573",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Tin",
-            "appearance": "silvery-white (beta, β) or gray (alpha, α)",
+            "appearance": "silvery-white (beta, \u062e\u00b2) or gray (alpha, \u062e\u00b1)",
             "atomic_mass": 118.7107,
             "boil": 2875,
             "category": "post-transition metal",
@@ -2350,7 +2448,9 @@
                 3930.3,
                 7456
             ],
-            "cpk-hex": "668080"
+            "cpk-hex": "668080",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Antimony",
@@ -2392,7 +2492,9 @@
                 5400,
                 10400
             ],
-            "cpk-hex": "9e63b5"
+            "cpk-hex": "9e63b5",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Tellurium",
@@ -2402,7 +2504,7 @@
             "category": "metalloid",
             "color": null,
             "density": 6.24,
-            "discovered_by": "Franz-Joseph Müller von Reichenstein",
+            "discovered_by": "Franz-Joseph M\u0623\u00bcller von Reichenstein",
             "melt": 722.66,
             "molar_heat": 25.73,
             "named_by": null,
@@ -2435,7 +2537,9 @@
                 6820,
                 13200
             ],
-            "cpk-hex": "d47a00"
+            "cpk-hex": "d47a00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Iodine",
@@ -2454,7 +2558,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Iodine",
             "spectral_img": null,
-            "summary": "Iodine is a chemical element with symbol I and atomic number 53. The name is from Greek ἰοειδής ioeidēs, meaning violet or purple, due to the color of iodine vapor. Iodine and its compounds are primarily used in nutrition, and industrially in the production of acetic acid and certain polymers.",
+            "summary": "Iodine is a chemical element with symbol I and atomic number 53. The name is from Greek \u0644\u00bc\u00b0\u062e\u061f\u062e\u00b5\u062e\u00b9\u062e\u00b4\u062e\u00ae\u062f\u201a ioeid\u0624\u201cs, meaning violet or purple, due to the color of iodine vapor. Iodine and its compounds are primarily used in nutrition, and industrially in the production of acetic acid and certain polymers.",
             "symbol": "I",
             "xpos": 17,
             "ypos": 5,
@@ -2474,7 +2578,9 @@
                 1845.9,
                 3180
             ],
-            "cpk-hex": "940094"
+            "cpk-hex": "940094",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Xenon",
@@ -2513,7 +2619,9 @@
                 2046.4,
                 3099.4
             ],
-            "cpk-hex": "429eb0"
+            "cpk-hex": "429eb0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Cesium",
@@ -2532,7 +2640,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Cesium",
             "spectral_img": null,
-            "summary": "Caesium or cesium is a chemical element with symbol Cs and atomic number 55. It is a soft, silvery-gold alkali metal with a melting point of 28 °C (82 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium is an alkali metal and has physical and chemical properties similar to those of rubidium and potassium.",
+            "summary": "Caesium or cesium is a chemical element with symbol Cs and atomic number 55. It is a soft, silvery-gold alkali metal with a melting point of 28 \u0622\u00b0C (82 \u0622\u00b0F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium is an alkali metal and has physical and chemical properties similar to those of rubidium and potassium.",
             "symbol": "Cs",
             "xpos": 1,
             "ypos": 6,
@@ -2553,7 +2661,9 @@
                 2234.3,
                 3400
             ],
-            "cpk-hex": "57178f"
+            "cpk-hex": "57178f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Barium",
@@ -2593,7 +2703,9 @@
                 965.2,
                 3600
             ],
-            "cpk-hex": "00c900"
+            "cpk-hex": "00c900",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Lanthanum",
@@ -2635,7 +2747,9 @@
                 4819,
                 5940
             ],
-            "cpk-hex": "70d4ff"
+            "cpk-hex": "70d4ff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Cerium",
@@ -2678,7 +2792,9 @@
                 6325,
                 7490
             ],
-            "cpk-hex": "ffffc7"
+            "cpk-hex": "ffffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Praseodymium",
@@ -2720,7 +2836,9 @@
                 3761,
                 5551
             ],
-            "cpk-hex": "d9ffc7"
+            "cpk-hex": "d9ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Neodymium",
@@ -2761,7 +2879,9 @@
                 2130,
                 3900
             ],
-            "cpk-hex": "c7ffc7"
+            "cpk-hex": "c7ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Promethium",
@@ -2802,7 +2922,9 @@
                 2150,
                 3970
             ],
-            "cpk-hex": "a3ffc7"
+            "cpk-hex": "a3ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Samarium",
@@ -2843,7 +2965,9 @@
                 2260,
                 3990
             ],
-            "cpk-hex": "8fffc7"
+            "cpk-hex": "8fffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Europium",
@@ -2853,7 +2977,7 @@
             "category": "lanthanide",
             "color": null,
             "density": 5.264,
-            "discovered_by": "Eugène-Anatole Demarçay",
+            "discovered_by": "Eug\u0623\u00a8ne-Anatole Demar\u0623\u00a7ay",
             "melt": 1099,
             "molar_heat": 27.66,
             "named_by": null,
@@ -2884,7 +3008,9 @@
                 2404,
                 4120
             ],
-            "cpk-hex": "61ffc7"
+            "cpk-hex": "61ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Gadolinium",
@@ -2925,7 +3051,9 @@
                 1990,
                 4250
             ],
-            "cpk-hex": "45ffc7"
+            "cpk-hex": "45ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Terbium",
@@ -2966,7 +3094,9 @@
                 2114,
                 3839
             ],
-            "cpk-hex": "30ffc7"
+            "cpk-hex": "30ffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Dysprosium",
@@ -3007,7 +3137,9 @@
                 2200,
                 3990
             ],
-            "cpk-hex": "1fffc7"
+            "cpk-hex": "1fffc7",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Holmium",
@@ -3048,7 +3180,9 @@
                 2204,
                 4100
             ],
-            "cpk-hex": "00ff9c"
+            "cpk-hex": "00ff9c",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Erbium",
@@ -3089,7 +3223,9 @@
                 2194,
                 4120
             ],
-            "cpk-hex": "00e675"
+            "cpk-hex": "00e675",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Thulium",
@@ -3130,7 +3266,9 @@
                 2285,
                 4120
             ],
-            "cpk-hex": "00d452"
+            "cpk-hex": "00d452",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Ytterbium",
@@ -3171,7 +3309,9 @@
                 2417,
                 4203
             ],
-            "cpk-hex": "00bf38"
+            "cpk-hex": "00bf38",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Lutetium",
@@ -3213,7 +3353,9 @@
                 4370,
                 6445
             ],
-            "cpk-hex": "00ab24"
+            "cpk-hex": "00ab24",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Hafnium",
@@ -3254,7 +3396,9 @@
                 2250,
                 3216
             ],
-            "cpk-hex": "4dc2ff"
+            "cpk-hex": "4dc2ff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Tantalum",
@@ -3293,7 +3437,9 @@
                 761,
                 1500
             ],
-            "cpk-hex": "4da6ff"
+            "cpk-hex": "4da6ff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Tungsten",
@@ -3332,7 +3478,9 @@
                 770,
                 1700
             ],
-            "cpk-hex": "2194d6"
+            "cpk-hex": "2194d6",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Rhenium",
@@ -3373,7 +3521,9 @@
                 2510,
                 3640
             ],
-            "cpk-hex": "267dab"
+            "cpk-hex": "267dab",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Osmium",
@@ -3392,7 +3542,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Osmium",
             "spectral_img": null,
-            "summary": "Osmium (from Greek osme (ὀσμή) meaning \"smell\") is a chemical element with symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59 g/cm3.",
+            "summary": "Osmium (from Greek osme (\u0644\u00bd\u20ac\u062f\u0192\u062e\u00bc\u062e\u00ae) meaning \"smell\") is a chemical element with symbol Os and atomic number 76. It is a hard, brittle, bluish-white transition metal in the platinum group that is found as a trace element in alloys, mostly in platinum ores. Osmium is the densest naturally occurring element, with a density of 22.59 g/cm3.",
             "symbol": "Os",
             "xpos": 8,
             "ypos": 6,
@@ -3412,7 +3562,9 @@
                 840,
                 1600
             ],
-            "cpk-hex": "266696"
+            "cpk-hex": "266696",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Iridium",
@@ -3431,7 +3583,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Iridium",
             "spectral_img": null,
-            "summary": "Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium) based on measured density, although calculations involving the space lattices of the elements show that iridium is denser. It is also the most corrosion-resistant metal, even at temperatures as high as 2000 °C. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable.",
+            "summary": "Iridium is a chemical element with symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, iridium is generally credited with being the second densest element (after osmium) based on measured density, although calculations involving the space lattices of the elements show that iridium is denser. It is also the most corrosion-resistant metal, even at temperatures as high as 2000 \u0622\u00b0C. Although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable.",
             "symbol": "Ir",
             "xpos": 9,
             "ypos": 6,
@@ -3451,7 +3603,9 @@
                 880,
                 1600
             ],
-            "cpk-hex": "175487"
+            "cpk-hex": "175487",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Platinum",
@@ -3490,7 +3644,9 @@
                 870,
                 1791
             ],
-            "cpk-hex": "d0d0e0"
+            "cpk-hex": "d0d0e0",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Gold",
@@ -3529,7 +3685,9 @@
                 890.1,
                 1980
             ],
-            "cpk-hex": "ffd123"
+            "cpk-hex": "ffd123",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Mercury",
@@ -3548,7 +3706,7 @@
             "phase": "Liquid",
             "source": "https://en.wikipedia.org/wiki/Mercury (Element)",
             "spectral_img": null,
-            "summary": "Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum (/haɪˈdrɑːrdʒərəm/). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.",
+            "summary": "Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum (/ha\u0629\u06be\u062b\u02c6dr\u0629\u2018\u062b\u06afrd\u062a\u2019\u0629\u2122r\u0629\u2122m/). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.",
             "symbol": "Hg",
             "xpos": 12,
             "ypos": 6,
@@ -3569,7 +3727,9 @@
                 1810,
                 3300
             ],
-            "cpk-hex": "b8b8d0"
+            "cpk-hex": "b8b8d0",
+            "name-persian": "",
+            "phase-persian": "\u0645\u0627\u06cc\u0639"
         },
         {
             "name": "Thallium",
@@ -3609,7 +3769,9 @@
                 1971,
                 2878
             ],
-            "cpk-hex": "a6544d"
+            "cpk-hex": "a6544d",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Lead",
@@ -3628,7 +3790,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Lead_(element)",
             "spectral_img": null,
-            "summary": "Lead (/lɛd/) is a chemical element in the carbon group with symbol Pb (from Latin:plumbum) and atomic number 82. Lead is a soft, malleable and heavy post-transition metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air.",
+            "summary": "Lead (/l\u0629\u203ad/) is a chemical element in the carbon group with symbol Pb (from Latin:plumbum) and atomic number 82. Lead is a soft, malleable and heavy post-transition metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air.",
             "symbol": "Pb",
             "xpos": 14,
             "ypos": 6,
@@ -3651,7 +3813,9 @@
                 4083,
                 6640
             ],
-            "cpk-hex": "575961"
+            "cpk-hex": "575961",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Bismuth",
@@ -3661,7 +3825,7 @@
             "category": "post-transition metal",
             "color": null,
             "density": 9.78,
-            "discovered_by": "Claude François Geoffroy",
+            "discovered_by": "Claude Fran\u0623\u00a7ois Geoffroy",
             "melt": 544.7,
             "molar_heat": 25.52,
             "named_by": null,
@@ -3694,7 +3858,9 @@
                 5400,
                 8520
             ],
-            "cpk-hex": "9e4fb5"
+            "cpk-hex": "9e4fb5",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Polonium",
@@ -3732,7 +3898,9 @@
             "ionization_energies": [
                 812.1
             ],
-            "cpk-hex": "ab5c00"
+            "cpk-hex": "ab5c00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Astatine",
@@ -3770,7 +3938,9 @@
             "ionization_energies": [
                 899.003
             ],
-            "cpk-hex": "754f45"
+            "cpk-hex": "754f45",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Radon",
@@ -3808,7 +3978,9 @@
             "ionization_energies": [
                 1037
             ],
-            "cpk-hex": "428296"
+            "cpk-hex": "428296",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Francium",
@@ -3847,7 +4019,9 @@
             "ionization_energies": [
                 380
             ],
-            "cpk-hex": "420066"
+            "cpk-hex": "420066",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Radium",
@@ -3887,7 +4061,9 @@
                 509.3,
                 979
             ],
-            "cpk-hex": "007d00"
+            "cpk-hex": "007d00",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Actinium",
@@ -3927,7 +4103,9 @@
                 499,
                 1170
             ],
-            "cpk-hex": "70abfa"
+            "cpk-hex": "70abfa",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Thorium",
@@ -3937,7 +4115,7 @@
             "category": "actinide",
             "color": null,
             "density": 11.724,
-            "discovered_by": "Jöns Jakob Berzelius",
+            "discovered_by": "J\u0623\u00b6ns Jakob Berzelius",
             "melt": 2023,
             "molar_heat": 26.23,
             "named_by": null,
@@ -3946,7 +4124,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Thorium",
             "spectral_img": null,
-            "summary": "Thorium is a chemical element with symbol Th and atomic number 90. A radioactive actinide metal, thorium is one of only two significantly radioactive elements that still occur naturally in large quantities as a primordial element (the other being uranium). It was discovered in 1828 by the Norwegian Reverend and amateur mineralogist Morten Thrane Esmark and identified by the Swedish chemist Jöns Jakob Berzelius, who named it after Thor, the Norse god of thunder.",
+            "summary": "Thorium is a chemical element with symbol Th and atomic number 90. A radioactive actinide metal, thorium is one of only two significantly radioactive elements that still occur naturally in large quantities as a primordial element (the other being uranium). It was discovered in 1828 by the Norwegian Reverend and amateur mineralogist Morten Thrane Esmark and identified by the Swedish chemist J\u0623\u00b6ns Jakob Berzelius, who named it after Thor, the Norse god of thunder.",
             "symbol": "Th",
             "xpos": 4,
             "ypos": 10,
@@ -3969,7 +4147,9 @@
                 1930,
                 2780
             ],
-            "cpk-hex": "00baff"
+            "cpk-hex": "00baff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Protactinium",
@@ -4008,7 +4188,9 @@
             "ionization_energies": [
                 568
             ],
-            "cpk-hex": "00a1ff"
+            "cpk-hex": "00a1ff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Uranium",
@@ -4048,7 +4230,9 @@
                 597.6,
                 1420
             ],
-            "cpk-hex": "008fff"
+            "cpk-hex": "008fff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Neptunium",
@@ -4087,7 +4271,9 @@
             "ionization_energies": [
                 604.5
             ],
-            "cpk-hex": "0080ff"
+            "cpk-hex": "0080ff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Plutonium",
@@ -4126,7 +4312,9 @@
             "ionization_energies": [
                 584.7
             ],
-            "cpk-hex": "006bff"
+            "cpk-hex": "006bff",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Americium",
@@ -4165,7 +4353,9 @@
             "ionization_energies": [
                 578
             ],
-            "cpk-hex": "545cf2"
+            "cpk-hex": "545cf2",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Curium",
@@ -4184,7 +4374,7 @@
             "phase": "Solid",
             "source": "https://en.wikipedia.org/wiki/Curium",
             "spectral_img": null,
-            "summary": "Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96. This element of the actinide series was named after Marie and Pierre Curie – both were known for their research on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.",
+            "summary": "Curium is a transuranic radioactive chemical element with symbol Cm and atomic number 96. This element of the actinide series was named after Marie and Pierre Curie \u00e2\u20ac\u201c both were known for their research on radioactivity. Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.",
             "symbol": "Cm",
             "xpos": 10,
             "ypos": 10,
@@ -4204,7 +4394,9 @@
             "ionization_energies": [
                 581
             ],
-            "cpk-hex": "785ce3"
+            "cpk-hex": "785ce3",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Berkelium",
@@ -4243,7 +4435,9 @@
             "ionization_energies": [
                 601
             ],
-            "cpk-hex": "8a4fe3"
+            "cpk-hex": "8a4fe3",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Californium",
@@ -4282,7 +4476,9 @@
             "ionization_energies": [
                 608
             ],
-            "cpk-hex": "a136d4"
+            "cpk-hex": "a136d4",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Einsteinium",
@@ -4321,7 +4517,9 @@
             "ionization_energies": [
                 619
             ],
-            "cpk-hex": "b31fd4"
+            "cpk-hex": "b31fd4",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Fermium",
@@ -4360,7 +4558,9 @@
             "ionization_energies": [
                 627
             ],
-            "cpk-hex": "b31fba"
+            "cpk-hex": "b31fba",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Mendelevium",
@@ -4399,7 +4599,9 @@
             "ionization_energies": [
                 635
             ],
-            "cpk-hex": "b30da6"
+            "cpk-hex": "b30da6",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Nobelium",
@@ -4438,7 +4640,9 @@
             "ionization_energies": [
                 642
             ],
-            "cpk-hex": "bd0d87"
+            "cpk-hex": "bd0d87",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Lawrencium",
@@ -4477,7 +4681,9 @@
             "ionization_energies": [
                 470
             ],
-            "cpk-hex": "c70066"
+            "cpk-hex": "c70066",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Rutherfordium",
@@ -4516,7 +4722,9 @@
             "ionization_energies": [
                 580
             ],
-            "cpk-hex": "cc0059"
+            "cpk-hex": "cc0059",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Dubnium",
@@ -4553,7 +4761,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": "d1004f"
+            "cpk-hex": "d1004f",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Seaborgium",
@@ -4590,7 +4800,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": "d90045"
+            "cpk-hex": "d90045",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Bohrium",
@@ -4600,7 +4812,7 @@
             "category": "transition metal",
             "color": null,
             "density": 37.1,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": null,
             "molar_heat": null,
             "named_by": null,
@@ -4627,7 +4839,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": "e00038"
+            "cpk-hex": "e00038",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Hassium",
@@ -4637,7 +4851,7 @@
             "category": "transition metal",
             "color": null,
             "density": 40.7,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": 126,
             "molar_heat": null,
             "named_by": null,
@@ -4664,7 +4878,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": "e6002e"
+            "cpk-hex": "e6002e",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Meitnerium",
@@ -4674,7 +4890,7 @@
             "category": "unknown, probably transition metal",
             "color": null,
             "density": 37.4,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": null,
             "molar_heat": null,
             "named_by": null,
@@ -4701,7 +4917,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": "eb0026"
+            "cpk-hex": "eb0026",
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Darmstadtium",
@@ -4711,7 +4929,7 @@
             "category": "unknown, probably transition metal",
             "color": null,
             "density": 34.8,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": null,
             "molar_heat": null,
             "named_by": null,
@@ -4738,7 +4956,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Roentgenium",
@@ -4748,7 +4968,7 @@
             "category": "unknown, probably transition metal",
             "color": null,
             "density": 28.7,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": null,
             "molar_heat": null,
             "named_by": null,
@@ -4775,7 +4995,9 @@
             "electron_affinity": 151,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Copernicium",
@@ -4785,7 +5007,7 @@
             "category": "transition metal",
             "color": null,
             "density": 23.7,
-            "discovered_by": "Gesellschaft für Schwerionenforschung",
+            "discovered_by": "Gesellschaft f\u0623\u00bcr Schwerionenforschung",
             "melt": null,
             "molar_heat": null,
             "named_by": null,
@@ -4812,7 +5034,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Nihonium",
@@ -4849,7 +5073,9 @@
             "electron_affinity": 66.6,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Flerovium",
@@ -4886,7 +5112,9 @@
             "electron_affinity": null,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Moscovium",
@@ -4923,7 +5151,9 @@
             "electron_affinity": 35.3,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Livermorium",
@@ -4960,7 +5190,9 @@
             "electron_affinity": 74.9,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Tennessine",
@@ -4997,7 +5229,9 @@
             "electron_affinity": 165.9,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Oganesson",
@@ -5034,7 +5268,9 @@
             "electron_affinity": 5.40318,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         },
         {
             "name": "Ununennium",
@@ -5072,7 +5308,9 @@
             "electron_affinity": 63.87,
             "electronegativity_pauling": null,
             "ionization_energies": [],
-            "cpk-hex": null
+            "cpk-hex": null,
+            "name-persian": "",
+            "phase-persian": "\u06af\u0627\u0632"
         }
     ]
 }
