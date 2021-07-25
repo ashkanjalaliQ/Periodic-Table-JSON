@@ -33,7 +33,8 @@
             ],
             "cpk-hex": "ffffff",
             "name-persian": "\u0638\u2021\u063a\u0152\u0637\u00af\u0637\u00b1\u0638\u02c6\u0639\u06a9\u0638\u2020",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Hydrogen"
         },
         {
             "name": "Helium",
@@ -69,7 +70,8 @@
             ],
             "cpk-hex": "d9ffff",
             "name-persian": "\u0638\u2021\u0638\u201e\u063a\u0152\u0638\u02c6\u0638\u2026",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Helium"
         },
         {
             "name": "Lithium",
@@ -107,7 +109,8 @@
             ],
             "cpk-hex": "cc80ff",
             "name-persian": "\u0638\u201e\u063a\u0152\u0637\u06be\u063a\u0152\u0638\u02c6\u0638\u2026",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Lithium"
         },
         {
             "name": "Beryllium",
@@ -146,7 +149,8 @@
             ],
             "cpk-hex": "c2ff00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Beryllium"
         },
         {
             "name": "Boron",
@@ -186,7 +190,8 @@
             ],
             "cpk-hex": "ffb5b5",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Boron"
         },
         {
             "name": "Carbon",
@@ -227,7 +232,8 @@
             ],
             "cpk-hex": "909090",
             "name-persian": "\u0639\u00a9\u0637\u00b1\u0637\u00a8\u0638\u2020",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Carbon"
         },
         {
             "name": "Nitrogen",
@@ -269,7 +275,8 @@
             ],
             "cpk-hex": "3050f8",
             "name-persian": "\u0638\u2020\u063a\u0152\u0637\u06be\u0637\u00b1\u0638\u02c6\u0639\u06a9\u0638\u2020",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Nitrogen"
         },
         {
             "name": "Oxygen",
@@ -312,7 +319,8 @@
             ],
             "cpk-hex": "ff0d0d",
             "name-persian": "\u0637\u00a7\u0639\u00a9\u0637\u00b3\u063a\u0152\u0639\u06a9\u0638\u2020",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Oxygen"
         },
         {
             "name": "Fluorine",
@@ -356,7 +364,8 @@
             ],
             "cpk-hex": "90e050",
             "name-persian": "\u0638\u067e\u0638\u201e\u0638\u02c6\u0637\u00a6\u0638\u02c6\u0637\u00b1",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Fluorine"
         },
         {
             "name": "Neon",
@@ -401,7 +410,8 @@
             ],
             "cpk-hex": "b3e3f5",
             "name-persian": "\u0638\u2020\u0637\u00a6\u0638\u02c6\u0638\u2020",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Neon"
         },
         {
             "name": "Sodium",
@@ -448,7 +458,8 @@
             ],
             "cpk-hex": "ab5cf2",
             "name-persian": "\u0637\u00b3\u0637\u00af\u063a\u0152\u0638\u2026",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Sodium"
         },
         {
             "name": "Magnesium",
@@ -496,7 +507,8 @@
             ],
             "cpk-hex": "8aff00",
             "name-persian": "\u0638\u2026\u0638\u2020\u063a\u0152\u0637\u00b2\u063a\u0152\u0638\u2026",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Magnesium"
         },
         {
             "name": "Aluminium",
@@ -545,7 +557,8 @@
             ],
             "cpk-hex": "bfa6a6",
             "name-persian": "\u0637\u00a2\u0638\u201e\u0638\u02c6\u0638\u2026\u063a\u0152\u0638\u2020\u063a\u0152\u0638\u02c6\u0638\u2026",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Aluminium"
         },
         {
             "name": "Silicon",
@@ -595,7 +608,8 @@
             ],
             "cpk-hex": "f0c8a0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Silicon"
         },
         {
             "name": "Phosphorus",
@@ -646,7 +660,8 @@
             ],
             "cpk-hex": "ff8000",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Phosphorus"
         },
         {
             "name": "Sulfur",
@@ -698,7 +713,8 @@
             ],
             "cpk-hex": "ffff30",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Sulfur"
         },
         {
             "name": "Chlorine",
@@ -751,7 +767,8 @@
             ],
             "cpk-hex": "1ff01f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Chlorine"
         },
         {
             "name": "Argon",
@@ -805,7 +822,8 @@
             ],
             "cpk-hex": "80d1e3",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Argon"
         },
         {
             "name": "Potassium",
@@ -861,7 +879,8 @@
             ],
             "cpk-hex": "8f40d4",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Potassium"
         },
         {
             "name": "Calcium",
@@ -918,7 +937,8 @@
             ],
             "cpk-hex": "3dff00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Calcium"
         },
         {
             "name": "Scandium",
@@ -976,7 +996,8 @@
             ],
             "cpk-hex": "e6e6e6",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Scandium"
         },
         {
             "name": "Titanium",
@@ -1035,7 +1056,8 @@
             ],
             "cpk-hex": "bfc2c7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Titanium"
         },
         {
             "name": "Vanadium",
@@ -1095,7 +1117,8 @@
             ],
             "cpk-hex": "a6a6ab",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Vanadium"
         },
         {
             "name": "Chromium",
@@ -1156,7 +1179,8 @@
             ],
             "cpk-hex": "8a99c7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Chromium"
         },
         {
             "name": "Manganese",
@@ -1218,7 +1242,8 @@
             ],
             "cpk-hex": "9c7ac7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Manganese"
         },
         {
             "name": "Iron",
@@ -1281,7 +1306,8 @@
             ],
             "cpk-hex": "e06633",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Iron"
         },
         {
             "name": "Cobalt",
@@ -1345,7 +1371,8 @@
             ],
             "cpk-hex": "f090a0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Cobalt"
         },
         {
             "name": "Nickel",
@@ -1410,7 +1437,8 @@
             ],
             "cpk-hex": "50d050",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Nickel"
         },
         {
             "name": "Copper",
@@ -1476,7 +1504,8 @@
             ],
             "cpk-hex": "c88033",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Copper"
         },
         {
             "name": "Zinc",
@@ -1534,7 +1563,8 @@
             ],
             "cpk-hex": "7d80b0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Zinc"
         },
         {
             "name": "Gallium",
@@ -1575,7 +1605,8 @@
             ],
             "cpk-hex": "c28f8f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Gallium"
         },
         {
             "name": "Germanium",
@@ -1617,7 +1648,8 @@
             ],
             "cpk-hex": "668f8f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Germanium"
         },
         {
             "name": "Arsenic",
@@ -1660,7 +1692,8 @@
             ],
             "cpk-hex": "bd80e3",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Arsenic"
         },
         {
             "name": "Selenium",
@@ -1704,7 +1737,8 @@
             ],
             "cpk-hex": "ffa100",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Selenium"
         },
         {
             "name": "Bromine",
@@ -1749,7 +1783,8 @@
             ],
             "cpk-hex": "a62929",
             "name-persian": "",
-            "phase-persian": "\u0645\u0627\u06cc\u0639"
+            "phase-persian": "\u0645\u0627\u06cc\u0639",
+            "source-persian": "https://fa.wikipedia.org/wiki/Bromine"
         },
         {
             "name": "Krypton",
@@ -1816,7 +1851,8 @@
             ],
             "cpk-hex": "5cb8d1",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Krypton"
         },
         {
             "name": "Rubidium",
@@ -1864,7 +1900,8 @@
             ],
             "cpk-hex": "702eb0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Rubidium"
         },
         {
             "name": "Strontium",
@@ -1913,7 +1950,8 @@
             ],
             "cpk-hex": "00ff00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Strontium"
         },
         {
             "name": "Yttrium",
@@ -1963,7 +2001,8 @@
             ],
             "cpk-hex": "94ffff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Yttrium"
         },
         {
             "name": "Zirconium",
@@ -2007,7 +2046,8 @@
             ],
             "cpk-hex": "94e0e0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Zirconium"
         },
         {
             "name": "Niobium",
@@ -2052,7 +2092,8 @@
             ],
             "cpk-hex": "73c2c9",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Niobium"
         },
         {
             "name": "Molybdenum",
@@ -2120,7 +2161,8 @@
             ],
             "cpk-hex": "54b5b5",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Molybdenum"
         },
         {
             "name": "Technetium",
@@ -2161,7 +2203,8 @@
             ],
             "cpk-hex": "3b9e9e",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Technetium"
         },
         {
             "name": "Ruthenium",
@@ -2202,7 +2245,8 @@
             ],
             "cpk-hex": "248f8f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Ruthenium"
         },
         {
             "name": "Rhodium",
@@ -2243,7 +2287,8 @@
             ],
             "cpk-hex": "0a7d8c",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Rhodium"
         },
         {
             "name": "Palladium",
@@ -2283,7 +2328,8 @@
             ],
             "cpk-hex": "006985",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Palladium"
         },
         {
             "name": "Silver",
@@ -2324,7 +2370,8 @@
             ],
             "cpk-hex": "c0c0c0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Silver"
         },
         {
             "name": "Cadmium",
@@ -2365,7 +2412,8 @@
             ],
             "cpk-hex": "ffd98f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Cadmium"
         },
         {
             "name": "Indium",
@@ -2407,7 +2455,8 @@
             ],
             "cpk-hex": "a67573",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Indium"
         },
         {
             "name": "Tin",
@@ -2450,7 +2499,8 @@
             ],
             "cpk-hex": "668080",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Tin"
         },
         {
             "name": "Antimony",
@@ -2494,7 +2544,8 @@
             ],
             "cpk-hex": "9e63b5",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Antimony"
         },
         {
             "name": "Tellurium",
@@ -2539,7 +2590,8 @@
             ],
             "cpk-hex": "d47a00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Tellurium"
         },
         {
             "name": "Iodine",
@@ -2580,7 +2632,8 @@
             ],
             "cpk-hex": "940094",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Iodine"
         },
         {
             "name": "Xenon",
@@ -2621,7 +2674,8 @@
             ],
             "cpk-hex": "429eb0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Xenon"
         },
         {
             "name": "Cesium",
@@ -2663,7 +2717,8 @@
             ],
             "cpk-hex": "57178f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Cesium"
         },
         {
             "name": "Barium",
@@ -2705,7 +2760,8 @@
             ],
             "cpk-hex": "00c900",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Barium"
         },
         {
             "name": "Lanthanum",
@@ -2749,7 +2805,8 @@
             ],
             "cpk-hex": "70d4ff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Lanthanum"
         },
         {
             "name": "Cerium",
@@ -2794,7 +2851,8 @@
             ],
             "cpk-hex": "ffffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Cerium"
         },
         {
             "name": "Praseodymium",
@@ -2838,7 +2896,8 @@
             ],
             "cpk-hex": "d9ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Praseodymium"
         },
         {
             "name": "Neodymium",
@@ -2881,7 +2940,8 @@
             ],
             "cpk-hex": "c7ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Neodymium"
         },
         {
             "name": "Promethium",
@@ -2924,7 +2984,8 @@
             ],
             "cpk-hex": "a3ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Promethium"
         },
         {
             "name": "Samarium",
@@ -2967,7 +3028,8 @@
             ],
             "cpk-hex": "8fffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Samarium"
         },
         {
             "name": "Europium",
@@ -3010,7 +3072,8 @@
             ],
             "cpk-hex": "61ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Europium"
         },
         {
             "name": "Gadolinium",
@@ -3053,7 +3116,8 @@
             ],
             "cpk-hex": "45ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Gadolinium"
         },
         {
             "name": "Terbium",
@@ -3096,7 +3160,8 @@
             ],
             "cpk-hex": "30ffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Terbium"
         },
         {
             "name": "Dysprosium",
@@ -3139,7 +3204,8 @@
             ],
             "cpk-hex": "1fffc7",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Dysprosium"
         },
         {
             "name": "Holmium",
@@ -3182,7 +3248,8 @@
             ],
             "cpk-hex": "00ff9c",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Holmium"
         },
         {
             "name": "Erbium",
@@ -3225,7 +3292,8 @@
             ],
             "cpk-hex": "00e675",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Erbium"
         },
         {
             "name": "Thulium",
@@ -3268,7 +3336,8 @@
             ],
             "cpk-hex": "00d452",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Thulium"
         },
         {
             "name": "Ytterbium",
@@ -3311,7 +3380,8 @@
             ],
             "cpk-hex": "00bf38",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Ytterbium"
         },
         {
             "name": "Lutetium",
@@ -3355,7 +3425,8 @@
             ],
             "cpk-hex": "00ab24",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Lutetium"
         },
         {
             "name": "Hafnium",
@@ -3398,7 +3469,8 @@
             ],
             "cpk-hex": "4dc2ff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Hafnium"
         },
         {
             "name": "Tantalum",
@@ -3439,7 +3511,8 @@
             ],
             "cpk-hex": "4da6ff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Tantalum"
         },
         {
             "name": "Tungsten",
@@ -3480,7 +3553,8 @@
             ],
             "cpk-hex": "2194d6",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Tungsten"
         },
         {
             "name": "Rhenium",
@@ -3523,7 +3597,8 @@
             ],
             "cpk-hex": "267dab",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Rhenium"
         },
         {
             "name": "Osmium",
@@ -3564,7 +3639,8 @@
             ],
             "cpk-hex": "266696",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Osmium"
         },
         {
             "name": "Iridium",
@@ -3605,7 +3681,8 @@
             ],
             "cpk-hex": "175487",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Iridium"
         },
         {
             "name": "Platinum",
@@ -3646,7 +3723,8 @@
             ],
             "cpk-hex": "d0d0e0",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Platinum"
         },
         {
             "name": "Gold",
@@ -3687,7 +3765,8 @@
             ],
             "cpk-hex": "ffd123",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Gold"
         },
         {
             "name": "Mercury",
@@ -3729,7 +3808,8 @@
             ],
             "cpk-hex": "b8b8d0",
             "name-persian": "",
-            "phase-persian": "\u0645\u0627\u06cc\u0639"
+            "phase-persian": "\u0645\u0627\u06cc\u0639",
+            "source-persian": "https://fa.wikipedia.org/wiki/Mercury (Element)"
         },
         {
             "name": "Thallium",
@@ -3771,7 +3851,8 @@
             ],
             "cpk-hex": "a6544d",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Thallium"
         },
         {
             "name": "Lead",
@@ -3815,7 +3896,8 @@
             ],
             "cpk-hex": "575961",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Lead_(element)"
         },
         {
             "name": "Bismuth",
@@ -3860,7 +3942,8 @@
             ],
             "cpk-hex": "9e4fb5",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Bismuth"
         },
         {
             "name": "Polonium",
@@ -3900,7 +3983,8 @@
             ],
             "cpk-hex": "ab5c00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Polonium"
         },
         {
             "name": "Astatine",
@@ -3940,7 +4024,8 @@
             ],
             "cpk-hex": "754f45",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Astatine"
         },
         {
             "name": "Radon",
@@ -3980,7 +4065,8 @@
             ],
             "cpk-hex": "428296",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Radon"
         },
         {
             "name": "Francium",
@@ -4021,7 +4107,8 @@
             ],
             "cpk-hex": "420066",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Francium"
         },
         {
             "name": "Radium",
@@ -4063,7 +4150,8 @@
             ],
             "cpk-hex": "007d00",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Radium"
         },
         {
             "name": "Actinium",
@@ -4105,7 +4193,8 @@
             ],
             "cpk-hex": "70abfa",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Actinium"
         },
         {
             "name": "Thorium",
@@ -4149,7 +4238,8 @@
             ],
             "cpk-hex": "00baff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Thorium"
         },
         {
             "name": "Protactinium",
@@ -4190,7 +4280,8 @@
             ],
             "cpk-hex": "00a1ff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Protactinium"
         },
         {
             "name": "Uranium",
@@ -4232,7 +4323,8 @@
             ],
             "cpk-hex": "008fff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Uranium"
         },
         {
             "name": "Neptunium",
@@ -4273,7 +4365,8 @@
             ],
             "cpk-hex": "0080ff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Neptunium"
         },
         {
             "name": "Plutonium",
@@ -4314,7 +4407,8 @@
             ],
             "cpk-hex": "006bff",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Plutonium"
         },
         {
             "name": "Americium",
@@ -4355,7 +4449,8 @@
             ],
             "cpk-hex": "545cf2",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Americium"
         },
         {
             "name": "Curium",
@@ -4396,7 +4491,8 @@
             ],
             "cpk-hex": "785ce3",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Curium"
         },
         {
             "name": "Berkelium",
@@ -4437,7 +4533,8 @@
             ],
             "cpk-hex": "8a4fe3",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Berkelium"
         },
         {
             "name": "Californium",
@@ -4478,7 +4575,8 @@
             ],
             "cpk-hex": "a136d4",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Californium"
         },
         {
             "name": "Einsteinium",
@@ -4519,7 +4617,8 @@
             ],
             "cpk-hex": "b31fd4",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Einsteinium"
         },
         {
             "name": "Fermium",
@@ -4560,7 +4659,8 @@
             ],
             "cpk-hex": "b31fba",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Fermium"
         },
         {
             "name": "Mendelevium",
@@ -4601,7 +4701,8 @@
             ],
             "cpk-hex": "b30da6",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Mendelevium"
         },
         {
             "name": "Nobelium",
@@ -4642,7 +4743,8 @@
             ],
             "cpk-hex": "bd0d87",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Nobelium"
         },
         {
             "name": "Lawrencium",
@@ -4683,7 +4785,8 @@
             ],
             "cpk-hex": "c70066",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Lawrencium"
         },
         {
             "name": "Rutherfordium",
@@ -4724,7 +4827,8 @@
             ],
             "cpk-hex": "cc0059",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Rutherfordium"
         },
         {
             "name": "Dubnium",
@@ -4763,7 +4867,8 @@
             "ionization_energies": [],
             "cpk-hex": "d1004f",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Dubnium"
         },
         {
             "name": "Seaborgium",
@@ -4802,7 +4907,8 @@
             "ionization_energies": [],
             "cpk-hex": "d90045",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Seaborgium"
         },
         {
             "name": "Bohrium",
@@ -4841,7 +4947,8 @@
             "ionization_energies": [],
             "cpk-hex": "e00038",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Bohrium"
         },
         {
             "name": "Hassium",
@@ -4880,7 +4987,8 @@
             "ionization_energies": [],
             "cpk-hex": "e6002e",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Hassium"
         },
         {
             "name": "Meitnerium",
@@ -4919,7 +5027,8 @@
             "ionization_energies": [],
             "cpk-hex": "eb0026",
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Meitnerium"
         },
         {
             "name": "Darmstadtium",
@@ -4958,7 +5067,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Darmstadtium"
         },
         {
             "name": "Roentgenium",
@@ -4997,7 +5107,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Roentgenium"
         },
         {
             "name": "Copernicium",
@@ -5036,7 +5147,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Copernicium"
         },
         {
             "name": "Nihonium",
@@ -5075,7 +5187,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Ununtrium"
         },
         {
             "name": "Flerovium",
@@ -5114,7 +5227,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Flerovium"
         },
         {
             "name": "Moscovium",
@@ -5153,7 +5267,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Ununpentium"
         },
         {
             "name": "Livermorium",
@@ -5192,7 +5307,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Livermorium"
         },
         {
             "name": "Tennessine",
@@ -5231,7 +5347,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Tennessine"
         },
         {
             "name": "Oganesson",
@@ -5270,7 +5387,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Oganesson"
         },
         {
             "name": "Ununennium",
@@ -5310,7 +5428,8 @@
             "ionization_energies": [],
             "cpk-hex": null,
             "name-persian": "",
-            "phase-persian": "\u06af\u0627\u0632"
+            "phase-persian": "\u06af\u0627\u0632",
+            "source-persian": "https://fa.wikipedia.org/wiki/Ununennium"
         }
     ]
 }
